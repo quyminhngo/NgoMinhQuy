@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AIMS_PROJECT/AIMS_PROJECT.iml" filepath="$PROJECT_DIR$/AIMS_PROJECT/AIMS_PROJECT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrtherProjects/GUIProject/GUIProject.iml" filepath="$PROJECT_DIR$/OrtherProjects/GUIProject/GUIProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrtherProjects/OrtherProjects.iml" filepath="$PROJECT_DIR$/OrtherProjects/OrtherProjects.iml" />
+    </modules>
+  </component>
+</project>
